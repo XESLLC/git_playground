@@ -1,1 +1,2 @@
-This is my awesome file 
+This is my awesome file.
+This is the second line of my awesome file.
